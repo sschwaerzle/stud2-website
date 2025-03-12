@@ -2,7 +2,7 @@
 title: "My First Post"
 date: 2025-03-12T10:00:00Z
 draft: false
-author: "Your Name"
+author: "Simon"
 categories:
   - "Introduction"
 tags:
