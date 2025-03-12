@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "First Post"
 date: 2025-03-12T10:00:00Z
 draft: false
 author: "Simon"
